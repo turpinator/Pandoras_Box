@@ -6,4 +6,4 @@ this trims 6.5mm off the rear and moves the screw from the rear to the front (ad
 
 ![rear](./rear.png)
 
-![installed](./installed.png)
+![installed](./installed.jpg)
