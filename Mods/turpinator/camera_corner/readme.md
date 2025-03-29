@@ -11,5 +11,5 @@ Installs to frame with M3x6 screws.
 ![installed](installed.jpg?raw=true)
 
 
-Heres the camera youll need.  I trimmed off the microphone from the PCB as this isnt used anyway.
+Heres the camera youll need.  I trimmed off the microphone from the PCB as this isnt used anyway.  See above image on lower right corner of PCB -- this is where the microphone was.
 ![camera](camera_listing_image.jpg?raw=true)
