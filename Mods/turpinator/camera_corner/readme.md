@@ -3,6 +3,7 @@ camera mount that fits in 1515 corner.  meant to go in the left rear, it is angl
 Works with the pictured "wansview 1080P Webcam" and similar PCBs.  Same camera used in Ryan G's Annex K3 Camera mount (https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/K3/Ryan_G-K3_Outside_Camera)
 
 ![Uninstalled](plankton.jpg?raw=true)
+PCB installs to board using the ?M2 self tapping screws that came out of the camera case and PCB, or your own supplied M2 self tappers.  No longer than 10mm.
 
 ![Webcam View](camerashot.png?raw=true)
 
