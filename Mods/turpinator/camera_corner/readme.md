@@ -8,7 +8,7 @@ PCB installs to board using the ?M2 self tapping screws that came out of the cam
 
 ![Webcam View](camerashot.png?raw=true)
 
-Installs to frame with M3x6 screws.  Use up to 6 screws, as few as 1.  I used 3 because i didnt have any more pre-installed nuts.
+Installs to frame with M3x6 screws.  SHCS or BHCS.  Up to 6 screws, as few as 1.  I used 3 because i didnt have any more pre-installed nuts.
 
 ![installed](installed.jpg?raw=true)
 
