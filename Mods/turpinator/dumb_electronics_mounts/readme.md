@@ -13,9 +13,14 @@ the USB ports are not acessible,
 you probably didnt preload the needed nuts,
 and there is no proper cooling for the SSR and UHP (probably okay for now tbh tho).
 
+Install M3 heat set inserts into the holes for the M8P and UHP.
 The SSR is only secureded by one screw into plastic -- I drilled a second hole and ran the screw into the plastic also.
 
-Also included is a G2z skirt with some holes for mounting a BTT SSKM and USB hub.
+I printed all pieces with the electronic mounting surface to the bed.
+Support was required on the M8P mount for the fan cut-outs because i was too lazy to redesign.
+
+
+Also included is a G2z skirt with some holes for mounting a BTT SSKM and USB hub.  It goes on the left side where the power normally is -- I put my power on the right.
 
 
 ![cad](CAD.png?raw=true)
