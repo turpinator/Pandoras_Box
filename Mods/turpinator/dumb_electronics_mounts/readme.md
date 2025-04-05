@@ -4,8 +4,8 @@ This will fit...
 M8P
 UHP-350
 SSR
-in a +50xy frame with G2z.  probably not normal. maybe. let me know if you try normal or BMGz and i shall update.  (dont use this, its dumb. please only use it for inspiration of what NOT to do)
-Sorry normies.
+in a +50xy frame with G2z.  probably not normal z. maybe. let me know if you try normal or BMGz and i shall update.  (dont use this, its dumb. please only use it for inspiration of what NOT to do)
+Also i dont think regular Z would be good in a +50 anyway...
 
 Its terrible and dumb, but it works.
 The cooling fans are half blocked, 
