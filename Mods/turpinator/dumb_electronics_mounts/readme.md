@@ -1,9 +1,9 @@
 these are my dumb electronics mounts for now.  Eventually there will be a sheet of something rigid with holes/threads/standoffs for everything.
 
-This will fit...
-M8P
-UHP-350
-SSR
+This will fit..
+-M8P
+-UHP-350
+-SSR
 in a +50xy frame with G2z.  probably not normal z. maybe. let me know if you try normal or BMGz and i shall update.  (dont use this, its dumb. please only use it for inspiration of what NOT to do)
 Also i dont think regular Z would be good in a +50 anyway...
 
