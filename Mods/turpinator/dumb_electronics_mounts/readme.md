@@ -18,8 +18,8 @@ Also included is a G2z skirt with some holes for mounting a BTT SSKM and USB hub
 
 ![cad](CAD.png?raw=true)
 
-![installed](cad_installed.png?raw=true)
+![installed](cad_install.png?raw=true)
 
 ![irl](irl.jpg?raw=true)
 
-![sksm](SKSM.jpg?raw=true)
+![sksm](SKSM_mounted.jpg?raw=true)
